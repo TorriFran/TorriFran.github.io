@@ -1,0 +1,28 @@
+
+
+[
+  {
+    "img": "img/componentes/componente-1.png",
+    "descripcion": "AMD Ryzen 5 3600g 6 Cores, a 3.59GHz"
+  },
+  {
+    "img": "img/componentes/componente-2.png",
+    "descripcion": "Motherboard Gigabyte GA-A320M-H"
+  },
+  {
+    "img": "img/componentes/componente-3.png",
+    "descripcion": "Memoria RAM DDR4 16GB 2666MHZ"
+  },
+  {
+    "img": "img/componentes/componente-4.png",
+    "descripcion": "SSD 500GB"
+  },
+  {
+    "img": "img/componentes/componente-5.png",
+    "descripcion": "Tarjeta Grafica Geforce GT1030"
+  } 
+]
+
+
+
+

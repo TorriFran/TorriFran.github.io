@@ -1,0 +1,10 @@
+[
+  {
+    "img": "img/perifericos/periferico-1.png",
+    "descripcion": "Auricular Gamer Gadnic A-37 Pro Microfono"
+  },
+  {
+    "img": "img/perifericos/periferico-2.png",
+    "descripcion": "Mouse Gamer Noga St202"
+  }
+]

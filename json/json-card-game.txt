@@ -1,0 +1,21 @@
+
+[
+  {
+    "img": "https://images2.alphacoders.com/951/thumb-1920-951198.jpg",
+    "titulo": "Five Nights At Freddy 1 Remaster",
+    "descripcion": "Ahora con todos sus dialogos, y textos traducidos completamente al español para disfrutar y conocer mas a fondo su iconico lore, ademas de presenciar de una iluminacion mejorada y texturas pulidas para dar una mejor experiencia y mas tenebrosa",
+    "link": "youtube.com"
+  },
+  {
+    "img": "https://c4.wallpaperflare.com/wallpaper/161/146/412/five-nights-at-freddy-s-five-nights-at-freddy-s-2-wallpaper-preview.jpg",
+    "titulo": "Five Nights At Freddy 2 Remaster",
+    "descripcion": "La segunda secuela de esta saga viene tambien mejorada, y con todo nuevamente traducido al español para seguir desentrañando poco a poco la historia",
+    "link": "youtube.com"
+  },
+  {
+    "img": "https://images4.alphacoders.com/478/thumb-1920-47856.jpg",
+    "titulo": "Castle Crasher",
+    "descripcion": "La segunda secuela de esta saga viene tambien mejorada, y con todo nuevamente traducido al español para seguir desentrañando poco a poco la historia",
+    "link": "youtube.com"
+  }
+]

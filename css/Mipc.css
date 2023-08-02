@@ -1,0 +1,75 @@
+
+
+body{
+    background: #0f0c29;  
+    background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29); 
+    background-size: cover;
+}
+
+#section-Mipc{
+    border: 1px solid transparent;
+}
+
+.container-pc{
+    margin: 100px 5%;
+}
+
+.componentes, .perifericos{
+    background: rgb(22, 22, 22);
+    margin: 3%;
+    border-radius: 5px;
+}
+
+
+.container-card-components, .container-card-perifericos{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2% 0 4% ;
+}
+
+
+.componentes h3, .perifericos h3{
+    font-size: 1.5rem;
+    margin-left: 4.5%;
+    color: #A0A0A0;
+    font-weight: 800;
+    padding: 2%;
+
+}
+
+.card-pc{
+    display: flex;
+    flex-direction: column;
+    background: white;
+    width: 320px;
+    height: 320px;
+    margin: 10px;
+    border-radius: 14px;
+    box-shadow: 0 2px 4px rgba(255, 255, 255, 0.2);
+}
+
+.img-pc{
+    background: center/contain no-repeat;
+    border-radius: 14px 14px 0 0 ;
+    height: 70%;
+}
+
+.description-pc{
+    border-top: 5px solid rgb(22, 22, 22);
+    height: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.description-pc p{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 7px 7px;
+}
+
